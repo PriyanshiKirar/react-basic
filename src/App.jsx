@@ -3,7 +3,7 @@ const App = () =>{
   return (
     // html to view
   <div>
-    <h1>hellomw from react</h1>
+    <h1>hellow from react</h1>
   </div>
   );
 }
